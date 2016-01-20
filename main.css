@@ -1,0 +1,40 @@
+
+
+/*Start of stylesheet*/
+
+/*================================
+Google fonts used:
+font-family: 'Oswald', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Lobster', cursive;
+ @import url(https://fonts.googleapis.com/css?family=Oswald|Ubuntu|Lobster);
+=================================*/
+
+/*Body*/
+/*Header*/
+/*Sections*/
+/*home*/
+home #home{
+    background-image: url(../e2/assets/h_img.jpg);
+    background-size: contain;
+    color: #ffffff;
+    height: 20%;
+    width: 100%;
+}
+/*about*/
+#about{
+    background: #EDF2DF;
+}
+/*services*/
+/*do*/
+#do{
+    background: #EDF2DF;
+}
+/*folio*/
+#folio{
+    background: #EDF2DF;
+}
+/*contact*/
+/*Footer*/
+
+
