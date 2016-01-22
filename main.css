@@ -21,6 +21,7 @@ body{
 }
 /*services*/
 .services #services{
+   background-image: url(../e2/assets/s_img.jpg);
    text-align: center;
    color: #ffffff;
    
