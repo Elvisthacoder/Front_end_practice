@@ -13,7 +13,9 @@ body{
 }
 /*about*/
 .about #about{
+    text-align: center;
     background: #EDF2DF;
+    color: white;
     
     
 }
