@@ -36,45 +36,22 @@ body{
 .do #do{
    text-align: center;
    align-content: center;
+   height: 20%;
+   width: 100%;
 }
 /*folio*/
-#portfolio{
+.portfolio #portfolio{
    text-align: center;
    align-content: center;
 }
-/*Footer*/
 
 
-
-.phead{
-    text-align: center;
-    font-size: 36px;
-}
-.dhead{
-      text-align: center;
-    font-size: 36px;
-}
-.doimg{
-    height: 6em;
-     display: flex;
-  align-items: center;
-  justify-content: center ;
-
-}
-.dorow{
-      text-align: center;
-}
-
-.about{
-    text-align: center;
-    background-color: #ecefe1;
-}
-.contact{
+.contact #contact{
     background-image:url(/assets/c_image.jpg);
     background-size: cover;
     height: 30%;
+    width: 100%;
     text-align: center;
-    font-size-adjust: 36px;
 }
 footer{
     text-align: center;
