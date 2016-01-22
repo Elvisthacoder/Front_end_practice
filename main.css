@@ -2,7 +2,6 @@
 body{
    background: #EDF2DF;
    font-family: monospace;
-   
 }
 /* Home section */
 .home #home{
@@ -20,9 +19,6 @@ body{
     color: black;
     height: 20%;
     width: 100%;
-
-    
-    
 }
 /*services*/
 .services #services{
