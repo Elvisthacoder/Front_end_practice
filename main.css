@@ -1,11 +1,9 @@
+/*body section*/
 body{
    font-family: monospace;
- 
- 
- 
 }
 /* Home section */
-home #home{
+.home #home{
     background-image: url(../e2/assets/h_img.jpg);
     background-size: contain;
     text-align: center;
@@ -14,10 +12,14 @@ home #home{
     width: 100%;
 }
 /*about*/
-#about{
+.about #about{
     background: #EDF2DF;
+    
 }
 /*services*/
+.services #services{
+   text-align: center;
+}
 /*do*/
 #do{
     background: #EDF2DF;
@@ -31,9 +33,6 @@ home #home{
 
 
 
-.home{
-
-}
 .phead{
     text-align: center;
     font-size: 36px;
