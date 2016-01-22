@@ -15,10 +15,13 @@ body{
 .about #about{
     background: #EDF2DF;
     
+    
 }
 /*services*/
 .services #services{
    text-align: center;
+   color: #ffffff;
+   
 }
 /*do*/
 #do{
